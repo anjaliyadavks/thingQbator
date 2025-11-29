@@ -1,0 +1,5 @@
+CAMERA_INDEX = 0
+SPEECH_COOLDOWN = 2.0
+FACE_MATCH_THRESHOLD = 0.45
+YOLO_ONNX_PATH = "models/yolov8n.onnx"
+MOBILEFACENET_ONNX = "models/mobilefacenet.onnx"

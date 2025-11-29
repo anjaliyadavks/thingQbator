@@ -1,0 +1,7 @@
+yolo_detector.py
+/*
+        if os.path.exists(path):
+            self.use_onnx = True
+            self.session = ort.InferenceSession(path)
+            self.names = None  # load names from file if needed
+  

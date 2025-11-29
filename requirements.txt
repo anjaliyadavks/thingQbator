@@ -1,0 +1,9 @@
+ultralytics>=8.0.0
+opencv-python
+numpy
+pyttsx3
+face_recognition
+Pillow
+onnxruntime
+torch
+onnx
